@@ -1,1 +1,1 @@
-Powershell.exe -executionpolicy remotesigned -File  "D:\Scripts\backup.ps1"
+Powershell.exe -ExecutionPolicy RemoteSigned -File  "D:\Repos\Scripts\backup.ps1"
