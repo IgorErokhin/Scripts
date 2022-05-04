@@ -1,5 +1,5 @@
 $FoldersToBackup = "D:\Files\Notes", "D:\Files\Passwords"
-$Destination = "D:\_backup"
+$Destination = "E:\_backup"
 $Date = Get-Date -Format "yyyyMMdd"
 Write-Host "Script to backup $FoldersToBackup to $Destination"
 New-Item -Path $Destination -Name $Date -ItemType "directory"
