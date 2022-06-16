@@ -1,4 +1,4 @@
-$FoldersToBackup = "E:\Drive\Notes", "E:\Drive\Passwords"
+$FoldersToBackup = "E:\Drive\Passwords"
 $Destination = "E:\_backup"
 $Date = Get-Date -Format "yyyyMMdd"
 Write-Host "Script to backup $FoldersToBackup to $Destination"
