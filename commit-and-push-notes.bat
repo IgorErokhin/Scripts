@@ -1,0 +1,1 @@
+Powershell.exe -ExecutionPolicy RemoteSigned -File  "D:\Repos\Scripts\commit-and-push-notes.ps1"
